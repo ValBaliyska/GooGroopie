@@ -15,7 +15,7 @@ namespace automationtests
 	public class HomePageFeature
 	{
 		[TestInitialize]
-		public void init()
+		public void Init()
 		{
 			Driver.Initialize();
 		}
